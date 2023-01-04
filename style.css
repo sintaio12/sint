@@ -1,0 +1,17 @@
+body {
+	background-color: bisque;
+}
+
+.two-images {
+	display: flex;
+}
+
+.side-by-side {
+	flex: 50%;
+	padding: 5px;
+}
+
+.center-header {
+	text-align: center;
+	text-decoration: underline;
+}
