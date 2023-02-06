@@ -24,8 +24,7 @@ function getNthPrime(nth) {
 
     
      } counter++;
-     con
      i++;
  }   
- return i--;
+ return i-1
 }
